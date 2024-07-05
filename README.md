@@ -7,7 +7,7 @@
 
 - Clone the project
 
-` `
+  `git clone https://github.com/kapilansrikaran/Angular_tutorial_project_housingLocation.git`
 
 - Install the dependencies
 
