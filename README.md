@@ -5,9 +5,12 @@
 
   `npm install -g @angular/cli`
 
+<<<<<<< HEAD
 
 - Clone the project
 
+=======
+>>>>>>> 5b04390a19eb792ef5bd232f78496dedcc12879a
 - Install the depencies
 
   `npm install` 
@@ -24,6 +27,9 @@
 - Run the application 
 
   `ng serve`
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 5b04390a19eb792ef5bd232f78496dedcc12879a
